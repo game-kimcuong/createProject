@@ -6,7 +6,7 @@ Project cài đặt môi trường visual studio 2010 với các thư viện sau
 
 
 
-include: (All)
+	include: (All)
 	library\SDL_image-1.2.12\include
 	library\SDL_mixer-1.2.12\include
 	library\SDL_ttf-2.0.11\include
