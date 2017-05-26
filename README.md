@@ -1,5 +1,5 @@
 # createProject
-Tạo project game 
+Tạo project game C++
 
 
 Project cài đặt môi trường visual studio 2010 với các thư viện sau:
