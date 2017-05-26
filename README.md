@@ -1,7 +1,10 @@
 # createProject
 Tạo project game 
-\n
+
+
 Project cài đặt môi trường visual studio 2010 với các thư viện sau:
+
+
 
 include: (All)
 	library\SDL_image-1.2.12\include
